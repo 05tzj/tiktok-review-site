@@ -5,6 +5,7 @@ Static pages for TikTok developer app review.
 - `index.html`: public app description page
 - `terms.html`: Terms of Service
 - `privacy.html`: Privacy Policy
+- `data-deletion.html`: User data deletion instructions
 - `app-icon.png`: App icon preview
 
 Suggested TikTok form URLs after GitHub Pages deployment:
@@ -18,4 +19,7 @@ https://05tzj.github.io/tiktok-review-site/terms.html
 
 Privacy Policy URL:
 https://05tzj.github.io/tiktok-review-site/privacy.html
+
+Data Deletion Instructions URL:
+https://05tzj.github.io/tiktok-review-site/data-deletion.html
 ```
